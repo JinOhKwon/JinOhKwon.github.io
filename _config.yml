@@ -48,11 +48,11 @@ jekyll-archives:
 
 # Disqus comments
 # 주석 코멘트
-# disqus_shortname: bencentra
+disqus_shortname: https-github-com-jinohkwon-jinohkwon-github-io
 
 # Google analytics
 # 구글 분석 연동
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-135471991-1"
 
 # Category descriptions (for archive pages)
 descriptions:
